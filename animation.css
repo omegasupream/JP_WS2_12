@@ -1,0 +1,92 @@
+@keyframes DITO
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 60%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+@keyframes PILO
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 55%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+
+@keyframes PP
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 90%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+@keyframes DD
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 70%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+@keyframes DG
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 65%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+@keyframes DS
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 70%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
+@keyframes DP
+{
+to{
+background-color: rgb(79, 199, 79);
+width: 65%;
+}
+from{
+background-color: rgb(79, 199, 79);
+width: 0%;
+
+}
+
+}
